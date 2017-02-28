@@ -1,4 +1,4 @@
 # gitsync1
 sync between two git repos
 
-- changes @gitsync1
+- changes @gitsync1: 1
