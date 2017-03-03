@@ -1,5 +1,7 @@
 # gitsync1/2
 
+foo
+
 sync between two git repos with different flavor.
 
 ## v1
